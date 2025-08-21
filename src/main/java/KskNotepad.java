@@ -1,3 +1,5 @@
+package notepad;
+
 import javax.swing.*;
 import javax.swing.filechooser.*;
 import java.awt.*;
